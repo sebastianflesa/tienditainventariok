@@ -1,0 +1,15 @@
+com\tiendita\tienditainventario\repository\VentasRepository.class
+com\tiendita\tienditainventario\controller\VentasController.class
+com\tiendita\tienditainventario\controller\InventarioController.class
+com\tiendita\tienditainventario\model\Venta.class
+com\tiendita\tienditainventario\TienditainventarioApplication.class
+com\tiendita\tienditainventario\repository\ProductoRepository.class
+com\tiendita\tienditainventario\service\VentasKafkaConsumerService.class
+com\tiendita\tienditainventario\model\Producto.class
+com\tiendita\tienditainventario\config\DatabaseConfig.class
+com\tiendita\tienditainventario\service\VentasService.class
+com\tiendita\tienditainventario\service\KafkaProducerService.class
+com\tiendita\tienditainventario\dto\StockMessage.class
+com\tiendita\tienditainventario\service\InventarioService.class
+com\tiendita\tienditainventario\config\KafkaConfig.class
+com\tiendita\tienditainventario\model\VentasEntity.class
